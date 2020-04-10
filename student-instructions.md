@@ -1,3 +1,9 @@
+---
+title: Student Instructions
+has_children: false
+nav_order: 1
+---
+
 # Student Instruction
 
 1. Download
