@@ -34,18 +34,17 @@ You just need either one, mix of two will make the job easier
 
 ## Start a Meeting
 1. Press **Start a Meeting**
+2. Check Mic and Camera, make sure they turn on
 
 ## Invite your Students
-1. Your meeting link will always stay the same, you can find from several places, the link look like this
+1. Your meeting link will always stay the same , the link look similar format as this
 	```
-		https://meetingsapac4.webex.com/meet/kentliau
+	https://meetingsapac4.webex.com/meet/kentliau
 	```
 
 2. Share the link to the respective WhatsApp Group to your student
 
-
-
-## Tool 
+## Teaching Tool 
 - Whiteboard
 - Screensharing + Text Editor (WordPad)
 - PDF or Picture 
