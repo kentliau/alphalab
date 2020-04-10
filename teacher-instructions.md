@@ -16,7 +16,7 @@ nav_order: 3
 ---
 
 ## Hardware
-You just need either one, mix of two will make the job easier.
+You just need either one, mix of two will make the job easier
 
 - iPad
 - PC/Mac
@@ -28,21 +28,24 @@ You just need either one, mix of two will make the job easier.
 - Android: [https://play.google.com/store/apps/details?id=com.cisco.webex.meetings](https://play.google.com/store/apps/details?id=com.cisco.webex.meetings)
 
 ## Registration
-1. [https://cart.webex.com/sign-up](https://cart.webex.com/sign-up)
+1. Here [https://cart.webex.com/sign-up](https://cart.webex.com/sign-up)
+2. You need to go to email inbox to set password
+3. If you use two device, the other can just join as guest without registration
 
-## Start a Session
-1. Press Start
+## Start a Meeting
+1. Press **Start a Meeting**
 
 ## Invite your Students
-If you have spare device, you can also join as a guest without another account
+1. Your meeting link will stay the same, you can copy from several places.
+	- PC/Mac: Before you
+2. Share the link to the respective WhatsApp Group to your student
 
-1. Share the link to the respective WhatsApp Group to your student
+![PC MAC Copy Link](img/pcmac_copylink.png)
 
-
-## Tool
+## Tool 
 - Whiteboard
 - Screensharing + Text Editor (WordPad)
-- PDF, Picture 
+- PDF or Picture 
 
 ## Prepare Material
 - Take photo of your materials ahead of time
