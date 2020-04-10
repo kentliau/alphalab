@@ -36,8 +36,10 @@ You just need either one, mix of two will make the job easier
 1. Press **Start a Meeting**
 
 ## Invite your Students
-1. Your meeting link will always stay the same, you can find from several places.
-	- PC/Mac: ![PC MAC Copy Link](img/pcmac_copylink.png)
+1. Your meeting link will always stay the same, you can find from several places, the link look like this
+	```
+		https://meetingsapac4.webex.com/meet/kentliau
+	```
 
 2. Share the link to the respective WhatsApp Group to your student
 
