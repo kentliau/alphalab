@@ -16,6 +16,8 @@ nav_order: 2
 ---
 
 ## Hardware
+You just need either one
+
 - iPad
 - PC/Mac
 - Smartphone
