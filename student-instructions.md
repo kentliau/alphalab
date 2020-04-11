@@ -29,3 +29,6 @@ nav_order: 2
 1. Get the link from your teacher through WhatsApp Group
 2. Clicking the link will bring you to Webex App and start session immediately
 
+## Share your Work
+1. Press the **Share** icon, to share photo of your work
+
